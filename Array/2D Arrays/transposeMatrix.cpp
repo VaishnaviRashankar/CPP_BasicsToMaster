@@ -1,0 +1,1 @@
+// Write a program to print the transpose of the matrix entered by the user (Column wise printing)2x3 -> 3x2 and create the transpse (Stored it in a new matrix)

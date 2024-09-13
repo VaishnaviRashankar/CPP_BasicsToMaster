@@ -1,0 +1,1 @@
+//Print sum from 1 to N(Return type)

@@ -1,0 +1,26 @@
+Syntax and Declration
+Accessing Elements of view_array
+Printing output and Taking Input
+Memory Allocation in Array
+Passing Array to Function
+Array ->List 
+2DArray -> Table ,grid,matrix (Array of Array)
+
+Q.1] Which element of the array does this expression reference?
+num[5]?
+answer = 5th Element from start
+Q.2]difference between array and for loop memory allocation
+
+
+
+
+/*
+1]Basics
+2]IfElse
+3]loops
+4]Patternprintin
+5]Function and pointer
+6]Recursion
+7]Arrays
+
+*/
